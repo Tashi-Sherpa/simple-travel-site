@@ -1,6 +1,11 @@
 
 h1 {
     height: 50px;
-    background-color: black;
+    background-color: rgb(190, 108, 163);
     Color: white;
+}
+
+p {
+    font-style: georgia;
+    font-size: 60;
 }
